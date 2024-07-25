@@ -9,7 +9,7 @@ Horizon Grands owns multiple five-star hotels across India. They have been in th
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-### Insights
+### <code>Insights</code>
 The dashboard Provide Insights to the Revenue Team in Hospitality Domain:
 
 1. Developed 4 Dashboards for Overall Analysis, Revenue Analysis, Booking Analysis, and Rating Analysis.
@@ -21,7 +21,7 @@ The dashboard Provide Insights to the Revenue Team in Hospitality Domain:
 7. Horizon Blu had the highest Average Rating and was 72.54% higher than Horizon Seasons, which had the lowest Average Rating at 2.29.
 
    
-Created the following KPIs using DAX:
+<code>Created the following KPIs using DAX:</code>
 
 1. Total Bookings
 2. Total Revenue
@@ -35,7 +35,7 @@ Created the following KPIs using DAX:
 10. Total Stay
 
     
-Things I learned over here:
+<code>Things I learned over here:</code>
 
 Learned about telling data-driven stories with this beautiful dashboard.
 Understanding the business requirement based on the data.
